@@ -1,0 +1,14 @@
+section{
+    padding: 20px;
+    background-color: rgb(18, 18, 18);
+    color: white;
+    
+}
+
+section ul {
+    margin-left: 30px;
+    color: gray;
+}
+section ul li span{
+    color: yellowgreen;
+}
